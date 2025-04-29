@@ -7,7 +7,7 @@ class Mahasiswa{
         string nama;
         int nim;
         float nilai;
-    
+         
 };
 
 int main(){
