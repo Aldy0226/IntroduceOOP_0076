@@ -28,5 +28,7 @@ int main()
     mhs1.nim = 1000;
     mhs1.nilai = 90.5;
 
+    mhs1.PrintData();
+
     return 0;
 }
